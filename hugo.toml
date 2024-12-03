@@ -1,0 +1,8 @@
+baseURL = "https://truecheck.io"
+title = "TrueCheck"
+languageCode = "en-us"
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  description = "TrueCheck"
