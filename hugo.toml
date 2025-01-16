@@ -5,4 +5,4 @@ paginate = 10
 enableRobotsTXT = true
 
 [params]
-  description = "TrueCheck is a simple KYC verification dashboard to streamline compliance with seamless customer onboarding, realtime verification and robust security features"
+  description = "TrueCheck is the simplest AML compliance solution for businesses, with detailed AML scans and simple case management"
