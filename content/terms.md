@@ -45,7 +45,7 @@ Malicious Code: Refers to viruses, worms, time bombs, Trojan horses, and other s
  
 New Release: Denotes (i) architectural changes in the System and/or Services, (ii) improvements and bug fixes, or (iii) maintenance releases not impacting the visible performance of the System and/or Services.
  
-Pricing Plan: The tariff chosen by the Customer via the Dashboard, entitling the Customer to use specific types and volumes of Services under certain conditions. Current Pricing Plans are available at https://truecheck.io/pricing and in the Dashboard. The Customer may adjust Services covered by their Pricing Plan via the Dashboard or by contacting the Service Provider. Enabling a Service not covered by the current Pricing Plan may result in transfer to a suitable Pricing Plan, additional charges, or restricted access.
+Pricing Plan: The tariff chosen by the Customer via the Dashboard, entitling the Customer to use specific types and volumes of Services under certain conditions. Current Pricing Plans are available at https://truecheck.io/#pricing and in the Dashboard. The Customer may adjust Services covered by their Pricing Plan via the Dashboard or by contacting the Service Provider. Enabling a Service not covered by the current Pricing Plan may result in transfer to a suitable Pricing Plan, additional charges, or restricted access.
  
 API: Refers to the Service Provider’s application programming interface, which includes a set of functions and procedures facilitating the submission of applications for access to the System's features and functionalities, as well as communication between the System and the Customer Platform.
  
@@ -61,7 +61,7 @@ System or Platform: A set of computer programs and databases operated by the Ser
  
 Trial Period: A limited time during which the Customer may use a certain number of Checks free of charge for testing the Services and System functionality.
  
-Website: Refers to https://truecheck.io/ and its subdomains.
+Website: Refers to https://truecheck.io and its subdomains.
  
  
 2. TERMS
