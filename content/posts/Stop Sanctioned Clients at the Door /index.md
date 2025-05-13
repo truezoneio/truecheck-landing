@@ -26,7 +26,6 @@ You can screen:
 
 All in seconds, using a clean dashboard designed for **non-technical users**. No compliance team required.
 
-![Scan Anyone in Seconds](truecheck_scan.png)
 
   ## **Who Should Be Using TrueCheck?**
 
