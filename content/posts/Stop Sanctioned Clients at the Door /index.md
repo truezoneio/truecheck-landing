@@ -4,8 +4,6 @@ date = 2025-05-13T15:30:00+03:00
 description = "Check clients, companies, and cryptocurrency wallets against 250+ global watchlists."
 +++
 
-# **Stop Sanctioned Clients at the Door**
-
 If you’re renting property, handling large cash payments, or managing financial flows — your business could unknowingly be exposed to individuals or companies flagged on **global sanctions lists** or linked to **criminal activity**.
 
 One unchecked client can lead to frozen funds, reputational damage, and serious regulatory consequences.
